@@ -1,0 +1,25 @@
+.row-header
+{
+    margin: 0px auto;
+    padding: 0px auto;
+   color: #ffffff;
+}
+.row-header p
+{
+    font-size: 20px;
+}
+.row-content
+{   
+    padding: 0px 20px 30px 0px;
+    margin-bottom: 1px solid #000000;
+}
+.jumbotron
+{
+    background-color: blueviolet;
+    margin: 0px auto;
+}
+.footer
+{
+    padding: 20px 0px 30px 0px;
+    background-color:lightcyan;
+}
