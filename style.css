@@ -8,10 +8,9 @@
 {
     font-size: 20px;
 }
-.row-content
+.row-context
 {   
-    padding: 0px 20px 30px 0px;
-    margin-bottom: 1px solid #000000;
+    margin: 30px 0px 30px 0px;
 }
 .jumbotron
 {
@@ -22,4 +21,11 @@
 {
     padding: 20px 0px 30px 0px;
     background-color:lightcyan;
+}
+@mediaquery (min-width<768px)
+{
+.row-context p
+{
+    display: none;
+}
 }
